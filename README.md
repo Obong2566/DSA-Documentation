@@ -21,4 +21,6 @@ WHERE A> 45
 
 ```
 
-###My Analysis
+#### My Analysis
+![pie chart](https://github.com/user-attachments/assets/706aaf0a-9ab2-42ba-a756-671ff12464ba)
+

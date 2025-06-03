@@ -15,8 +15,8 @@ I have learnt quite a number of things ranging from Ms excel, SQL and now portfo
 -  SQL
 -  Power Bi [download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
-''' SQL
- SELECT A,B,C
- WHERE A> 15
+``` SQL
+SELECT A,B,C
+WHERE A> 45
 
-  '''
+```

@@ -7,3 +7,10 @@ I have learnt quite a number of things ranging from Ms excel, SQL and now portfo
 ## Project Topic: E commence sales Analysis
 
 ### Project overview
+
+- Ms excel for data cleaning [ Download here](https://www.microsoft.com)
+     - for data collection
+     - for data cleaning
+       1. Data manipulation
+-  SQL
+-  Power Bi
